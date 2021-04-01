@@ -7,7 +7,7 @@ A continuación se detallan los contenidos a impartir en este módulo:
 
 1. Carga de datos (4h)
 
-    1.1. [Texto plano](carga-datos/texto-plano.ipynb) (csv, json, xml)
+    1.1. [Texto plano](carga-datos/carga-texto-plano.ipynb) (csv, json, xml)
 
     1.2. [Imágenes, vídeos](carga-datos/carga-imagenes-videos.ipynb) (pillow, OpenCV)
     
