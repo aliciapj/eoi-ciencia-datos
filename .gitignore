@@ -1,3 +1,6 @@
+# Soluciones de los ejercicios
+.eoi_solutions
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
