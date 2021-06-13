@@ -1,5 +1,5 @@
 # Project specific
-.eoi_solutions
+eoi_solutions
 .vagrant
 .venv-win
 .vscode
