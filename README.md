@@ -5,27 +5,21 @@ módulo es explicar las librerías científicas en Python que permiten el tratam
 
 A continuación se detallan los contenidos a impartir en este módulo:
 
-1. Carga de datos (4h)
+1. Carga de datos 
 
-    1.1. [Texto plano](carga-datos/carga-texto-plano.ipynb) (csv, json, xml)
-
-    1.2. [Imágenes, vídeos](carga-datos/carga-imagenes-videos.ipynb) (pillow, OpenCV)
-    
-    1.3. [Audio](carga-datos/carga-audio.ipynb) (wavio, pyaudio)
-
-2. Análisis exploratorio (4h)
+2. Análisis exploratorio
     
     2.1. numpy
     
     2.2. pandas
 
-3. Visualizaciones gráficas (4h)
+3. Visualizaciones gráficas
     
     3.1. matplotlib
     
     3.2. seaborn
 
-4. Aprendizaje automático (20h)
+4. Aprendizaje automático
     
     4.1. Introducción a ML con scikit-learn
     
